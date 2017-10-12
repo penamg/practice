@@ -1,2 +1,2 @@
 # practice
-practice for hackathon
+practice for hackath
